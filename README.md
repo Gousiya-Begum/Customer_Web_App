@@ -33,7 +33,7 @@ Customer_App/
 
 ### Prerequisites
 
-- Java 11 or later
+- Java
 - Apache Tomcat or any other servlet container
 - MySQL Database
 

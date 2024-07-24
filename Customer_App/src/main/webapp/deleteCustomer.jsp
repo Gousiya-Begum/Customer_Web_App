@@ -94,7 +94,7 @@
                 ResultSet rs = null;
                 try {
                     // Database connection details
-                    String URL = "jdbc:mysql://127.0.0.1:3306/customer_db";
+                    String URL = "jdbc:mysql://localhost:3306/customer_db";
                     String USER = "root";
                     String PASSWORD = "root";
                     
